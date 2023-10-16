@@ -1,0 +1,4 @@
+// dart pub global activate very_good_cli
+// very_good create flutter_package network_repository --desc "Network Repository"
+// flutter pub run build_runner build   
+<!-- ![coverage][coverage_badge] -->

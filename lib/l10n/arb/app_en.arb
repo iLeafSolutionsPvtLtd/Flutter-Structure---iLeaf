@@ -1,0 +1,25 @@
+{
+  "@@locale": "en",
+  "currentTemp": "Current temp",
+  "dark": "dark",
+  "light": "light",
+  "loginX": "login {x}",
+  "@loginX": {
+    "placeholders": {
+      "x": {
+        "type": "String"
+      }
+    }
+  },
+  "maxTemp": "Max temp",
+  "minTemp": "Min temp",
+  "nav": "nav",
+  "noInternetConnection": "No internet connection",
+  "precipitation": "Precipitation",
+  "sunrise": "sunrise",
+  "sunset": "sunset",
+  "uvIndex": "UV Index",
+  "weatherToday": "Weather Today",
+  "windDirection": "wind direction",
+  "windSpeed": "wind speed"
+}
